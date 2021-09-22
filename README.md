@@ -2,7 +2,7 @@
 
 ## Question
 
-Find the 5th largest number in a unsorted array of integers.
+Find the 5th largest number in a unsorted array of non-negative integers.
 
 ### Example
 
